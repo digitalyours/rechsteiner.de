@@ -1,2 +1,0 @@
-# rechsteiner.de
-Begin app
