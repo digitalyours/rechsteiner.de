@@ -86,6 +86,36 @@ module.exports = function Content (props) {
       </div>
     </div>
   </div>
+  <div		
+     class="		
+       display-flex		
+       align-items-center		
+       justify-content-space-between		
+       padding-top-16		
+       padding-right-32		
+       padding-left-32		
+       padding-right-48-large		
+       padding-bottom-16		
+       padding-left-48-large		
+       color-5A5C5B		
+       background-color-F2F0F3		
+     "		
+   >		
+     <span		
+       class="		
+         display-flex		
+         align-item-center		
+       "		
+     >		
+       <span		
+         class="		
+           margin-right-8		
+           color-979797		
+         "		
+       >		
+         ❤️ 2020		
+       </span>		
+   </div>
 </section>
   `
 }
