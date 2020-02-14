@@ -10,7 +10,7 @@ module.exports = function Styles (props) {
   box-sizing: border-box;
 }
 body {
-  font-family: 'Roboto',-apple-system,BlinkMacSystemFont,"Segoe UI",Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  font-family: 'Fira Sans',-apple-system,BlinkMacSystemFont,"Segoe UI",Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 .height-100vh {
   height: 100vh

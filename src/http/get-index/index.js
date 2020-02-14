@@ -7,11 +7,11 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Christoph', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'dunno',
-    location: 'Genf, Schweiz',
-    bio: '',
+    fullname: 'Hallo. Hello. Hej.', // ←  Start by adding your name!
+    title: 'rechsteiner.de',
+    occupation: 'World Economic Forum',
+    location: 'Genève',
+    bio: 'Hier ist Christoph, einer der Jungs der ersten Stunde und der letzten Runde. Verwendet am liebsten keine doppelte Verneinung. Beruflich sitzt er im Glashaus und wirft mit dem Stein der Weißen. Denkt scharf nach und handelt dann Stumpf. Denn komplizierter Männer, machen die schöneren Fehler. Nimm ein paar Nüsschen. Nervennahrung.',
 
     /**
      * Contact / social
