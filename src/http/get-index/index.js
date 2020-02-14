@@ -17,18 +17,18 @@ exports.handler = async function Index () {
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
+    email: 'christoph@rechsteiner.de',
     twitter: 'digitalyours',
-    linkedin: 'your-linkedin-name',
+    linkedin: 'christophrechsteiner',
     instagram: 'digitalyours',
-    facebook: 'your-facebook-name',
+    facebook: 'digitalyours',
 
     /**
      * Layout
      */
-    photographer: 'Ivana Cajina',
-    service: 'Unsplash',
-    credit: 'https://unsplash.com/@von_co',
+    photographer: 'Christoph',
+    service: '',
+    credit: '',
     image: staticAssetsHelper('background.jpg')
     // or link to an external image URL such as ↓
     // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
