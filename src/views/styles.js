@@ -284,6 +284,10 @@ body {
   .overflow-auto-large {
     overflow: auto;
   }
+  .flex-auto{
+    flex: 1 0 auto;
+  }
+
 }
 </style>
 `

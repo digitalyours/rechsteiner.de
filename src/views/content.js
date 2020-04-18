@@ -104,7 +104,8 @@ module.exports = function Content (props) {
      <span		
        class="		
          display-flex		
-         align-item-center		
+         align-item-center
+         flex-auto		
        "		
      >		
        <span		
