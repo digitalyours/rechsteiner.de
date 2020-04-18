@@ -237,6 +237,9 @@ body {
 .transition-background-color {
   transition: background-color 200ms;
 }
+.flex-block {
+  display: block;
+}
 
 @media screen and (min-width: 55rem) {
   .display-flex-large {
