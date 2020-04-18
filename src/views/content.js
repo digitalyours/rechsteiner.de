@@ -39,6 +39,7 @@ module.exports = function Content (props) {
       margin-left-auto
       padding-48
       padding-5-large
+      flex-auto
     "
   >
     <div
@@ -104,8 +105,7 @@ module.exports = function Content (props) {
      <span		
        class="		
          display-flex		
-         align-item-center
-         flex-auto		
+         align-item-center		
        "		
      >		
        <span		
