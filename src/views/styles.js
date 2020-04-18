@@ -240,6 +240,9 @@ body {
 .flex-block {
   display: block;
 }
+.flex-auto{
+  flex: 1 0 auto;
+}
 
 @media screen and (min-width: 55rem) {
   .display-flex-large {
@@ -283,9 +286,6 @@ body {
   }
   .overflow-auto-large {
     overflow: auto;
-  }
-  .flex-auto{
-    flex: 1 0 auto;
   }
 
 }
