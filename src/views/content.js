@@ -88,7 +88,7 @@ module.exports = function Content (props) {
   </div>
   <div		
      class="		
-       display-block		
+       display-flex		
        align-items-center		
        justify-content-space-between		
        padding-top-16		
