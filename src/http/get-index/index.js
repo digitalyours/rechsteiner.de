@@ -7,11 +7,11 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Hallo. Hello. Hej.', // ←  Start by adding your name!
+    fullname: 'Hallo. Hello. Hej.',
     title: 'rechsteiner.de',
     occupation: 'World Economic Forum',
     location: 'Genève',
-    bio: 'Hier ist Christoph, einer der Jungs der ersten Stunde und der letzten Runde. Verwendet am liebsten nicht, keine doppelte Verneinung. Beruflich sitzt er im Glashaus und wirft mit dem Stein der Weisen. Denkt scharf nach und handelt dann Stumpf. Denn komplizierter Männer, machen die schöneren Fehler. Nimm ein paar Nüsschen. Nervennahrung.',
+    bio: 'Hier ist Christoph, einer der Jungs der ersten Stunde und der letzten Runde. Verwendet am liebsten nicht, keine doppelte Verneinung. Beruflich sitzt er im Glashaus und wirft mit dem Stein der Weisen. Denkt scharf nach und handelt dann stumpf. Denn komplizierte Männer, machen die schöneren Fehler. Nimm ein paar Nüsschen. Nervennahrung.',
 
     /**
      * Contact / social
@@ -30,8 +30,7 @@ exports.handler = async function Index () {
     service: '',
     credit: '',
     image: staticAssetsHelper('background.jpeg')
-    // or link to an external image URL such as ↓
-    // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
+
   })
 
   return {
