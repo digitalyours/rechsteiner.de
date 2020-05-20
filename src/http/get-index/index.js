@@ -9,7 +9,7 @@ exports.handler = async function Index () {
      */
     fullname: 'Hallo. Hello. Hej.',
     title: 'rechsteiner.de',
-    occupation: 'Digital Strategist, Program Manager, Autor & Scout',
+    occupation: 'Digital Strategist, Program Manager, Author & Scout',
     location: 'Heidelberg',
     bio: 'Hier ist Christoph, einer der Jungs der ersten Stunde und der letzten Runde. Verwendet am liebsten nicht, keine doppelte Verneinung. Beruflich sitzt er im Glashaus und wirft mit dem Stein der Weisen. Denkt scharf nach und handelt dann stumpf. Denn komplizierte Männer, machen die schöneren Fehler. Nimm ein paar Nüsschen. Nervennahrung.',
 
